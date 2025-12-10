@@ -1,3 +1,3 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/wltjd0620?pet-id=" width="1000" height="150"/>
+  <img src="https://render.gitanimals.org/lines/wltjd0620?pet-id=" width="1000" height="300"/>
 </a>
